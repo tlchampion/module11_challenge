@@ -14,6 +14,7 @@ Python version 3.9.15 was used to complete this challenge and the following addi
 * numpy
 * hvplot
 * prophet
+* jupyterlab
 
 
 
